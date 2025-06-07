@@ -32,7 +32,6 @@ This repository contains the source code and documentation for the TinyProject i
 ## Author
 
 * Diêu Ngọc Thiên An - Student ID: 10423192
-* GitHub: [thienan26](https://github.com/thienan26)
 
 ## Repository Structure
 
